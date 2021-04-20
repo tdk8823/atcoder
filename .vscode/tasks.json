@@ -1,0 +1,8 @@
+{
+    "version": "0.1.0",
+    "command": "g++",
+    "isShellCommand": true,
+    "showOutput": "always",
+    "args": ["-I","."],
+    "isBuildCommand": true
+}
